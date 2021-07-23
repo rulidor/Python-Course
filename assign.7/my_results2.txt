@@ -1,0 +1,16 @@
+v1_stud:
+(0,1,2,3,10)
+stud_vec_content:
+(2, 4, 6, 8, 10)
+After adding [1,3,5,7,9]:
+(0,1,2,3,10)
+v1_stud[3]=
+8
+The matrix content:
+((0,1,2,3,10), (0,1,2,3,9))
+The matrix shape:
+(2, 5)
+The transposed matrix content:
+((0,1), (0,3), (0,5), (0,7), (0,9))
+The transposed matrix shape:
+(5, 2)
